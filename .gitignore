@@ -1,0 +1,32 @@
+# Ignore Python cache and virtualenvs
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+test_venv/
+
+# Ignore editor/IDE files
+.vscode/
+.idea/
+*.swp
+
+# Ignore data and artifacts
+data/
+artifacts/
+submission.csv
+
+# FAISS index files
+*.faiss
+*.pkl
+*.npy
+*.bin
+
+# Ignore local test files
+my_first_RAG_implementation.txt
+
+# Ignore system files
+.DS_Store
+Thumbs.db

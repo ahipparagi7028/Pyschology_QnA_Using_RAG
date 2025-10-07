@@ -1,0 +1,16 @@
+# Core dependencies
+langchain==0.2.12
+langchain-community==0.2.11
+
+# Embeddings and model ecosystem
+sentence-transformers==2.2.2
+huggingface_hub==0.20.3
+faiss-cpu==1.8.0
+pypdf==4.0.2
+
+# Optional: Ollama (for local LLMs)
+ollama==0.1.8
+
+# Utility libraries
+requests>=2.31.0
+PyYAML>=6.0
