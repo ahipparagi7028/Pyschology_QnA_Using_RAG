@@ -66,10 +66,10 @@ A sample `queries.json` is also expected in the same folder. You can download th
 
 
 
-1. Clone this repo
+### 1\. Clone this repo
    
-   ---
-2. ### Install Dependencies
+   
+### 2\. Install Dependencies
 
 
 
@@ -127,7 +127,7 @@ python scripts/run\_query.py
 
 
 
-* PyPDF — for document loadign
+* PyPDF — for document loading
 
 
 
